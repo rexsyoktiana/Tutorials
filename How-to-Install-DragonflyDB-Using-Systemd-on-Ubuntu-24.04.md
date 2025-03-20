@@ -3,7 +3,7 @@
     sudo adduser --system --no-create-home --group dragonfly
 # Step 2: Download and Install DragonflyDB
 ## 2.1. Download the Latest .deb Package
-    wget https://github.com/dragonflydb/dragonfly/releases/latest/download/dragonflydb_0.1.0_amd64.deb
+    wget https://dragonflydb.gateway.scarf.sh/latest/dragonfly_amd64.deb
 ## 2.2. Install the .deb Package
     sudo dpkg -i dragonflydb_0.1.0_amd64.deb
 ## 2.3. Fix Any Dependency Issues
