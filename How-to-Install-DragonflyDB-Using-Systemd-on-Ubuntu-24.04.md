@@ -2,7 +2,7 @@
 ## 1.1. Download the Latest .deb Package
     wget https://dragonflydb.gateway.scarf.sh/latest/dragonfly_amd64.deb
 ### alternative:
-    wget https://github.com/rexsyoktiana/
+    wget https://github.com/rexsyoktiana/Tutorials/blob/main/installer/dragonfly_amd64.deb
 ## 1.2. Install the .deb Package
     sudo dpkg -i dragonfly_amd64.deb
 ## 1.3. Fix Any Dependency Issues
