@@ -5,7 +5,7 @@
 ## 2.1. Download the Latest .deb Package
     wget https://dragonflydb.gateway.scarf.sh/latest/dragonfly_amd64.deb
 ## 2.2. Install the .deb Package
-    sudo dpkg -i dragonflydb_0.1.0_amd64.deb
+    sudo dpkg -i dragonfly_amd64.deb
 ## 2.3. Fix Any Dependency Issues
     sudo apt install -f
 # Step 3: Configure DragonflyDB
